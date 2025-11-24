@@ -1,3 +1,7 @@
+![IMG_20251124_141433_388](https://github.com/user-attachments/assets/d45f1263-2d40-4132-a840-1ebe04459339)
+![IMG_20251124_141439_142](https://github.com/user-attachments/assets/d101ee55-2720-4edf-8bde-e871e950aba3)
+![IMG_20251124_141438_997](https://github.com/user-attachments/assets/73c07367-2aad-4246-b4d2-a3f49ffe5054)
+![IMG_20251124_141438_921](https://github.com/user-attachments/assets/2914d12f-b6d6-4fe2-a648-34d1ca434ae4)
 # Flask-Admin
 
 Flask-Admin is now part of Pallets-Eco, an open source organization managed by the
